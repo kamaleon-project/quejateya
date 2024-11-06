@@ -439,7 +439,7 @@
                 "symfony/finder": "~3.3",
                 "symfony/http-foundation": "~3.3",
                 "symfony/http-kernel": "~3.3",
-                "symfony/process": "~3.3",
+                "symfony/process": "5.4.46",
                 "symfony/routing": "~3.3",
                 "symfony/var-dumper": "~3.3",
                 "tijsverkoyen/css-to-inline-styles": "~2.2",
@@ -1335,7 +1335,7 @@
             },
             "conflict": {
                 "symfony/dependency-injection": "<3.4",
-                "symfony/process": "<3.3"
+                "symfony/process": "5.4.46"
             },
             "require-dev": {
                 "psr/log": "~1.0",
@@ -1343,13 +1343,13 @@
                 "symfony/dependency-injection": "~3.4|~4.0",
                 "symfony/event-dispatcher": "~2.8|~3.0|~4.0",
                 "symfony/lock": "~3.4|~4.0",
-                "symfony/process": "~3.3|~4.0"
+                "symfony/process": "5.4.46"
             },
             "suggest": {
                 "psr/log": "For using the console logger",
                 "symfony/event-dispatcher": "",
                 "symfony/lock": "",
-                "symfony/process": ""
+                "symfony/process": "5.4.46"
             },
             "type": "library",
             "extra": {
@@ -1699,7 +1699,7 @@
                 "symfony/dom-crawler": "~2.8|~3.0|~4.0",
                 "symfony/expression-language": "~2.8|~3.0|~4.0",
                 "symfony/finder": "~2.8|~3.0|~4.0",
-                "symfony/process": "~2.8|~3.0|~4.0",
+                "symfony/process": "5.4.46",
                 "symfony/routing": "~3.4|~4.0",
                 "symfony/stopwatch": "~2.8|~3.0|~4.0",
                 "symfony/templating": "~2.8|~3.0|~4.0",
